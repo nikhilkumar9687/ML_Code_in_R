@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589790107619.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3361636110",
+    "id" : "A047519F",
+    "lastKnownWriteTime" : 1589792783,
+    "last_content_update" : 1589792783698,
+    "path" : "~/Desktop/Machine+Learning+A-Z+(Codes+and+Datasets)/My_code_in_R/Data_preprocessing_R/data_preprocessing_templete.R",
+    "project_path" : "data_preprocessing_templete.R",
+    "properties" : {
+        "cursorPosition" : "6,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

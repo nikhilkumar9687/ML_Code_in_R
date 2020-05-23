@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589884603333.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "354866348",
+    "id" : "20D77294",
+    "lastKnownWriteTime" : 1589888129,
+    "last_content_update" : 1589888129520,
+    "path" : "~/Desktop/Machine+Learning+A-Z+(Codes+and+Datasets)/My_code_in_R/Simple_Linear_regression/Simple_Linear_regression.R",
+    "project_path" : "Simple_Linear_regression.R",
+    "properties" : {
+        "cursorPosition" : "60,17",
+        "scrollLine" : "45",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
